@@ -9,7 +9,7 @@
 
 <br clear="both">
 
-<p align="left">🌱 I’m currently learning **K8S**<br>📫 How to reach me **trananhkiet21082005@gmail.com**</p>
+<p align="left">🌱 I’m currently learning **K8S**,**React**<br>📫 How to reach me **trananhkiet21082005@gmail.com**</p>
 
 ###
 
