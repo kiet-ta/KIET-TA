@@ -14,9 +14,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=TAK1ST&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TAK1ST&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=TAK1ST&no-bg=false&column=3&row=1&no-frame=true&theme=onedark" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=KIET-TA&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KIET-TA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=KIET-TA&no-bg=false&column=3&row=1&no-frame=true&theme=onedark" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -69,6 +69,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/TAK1ST/TAK1ST/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/KIET-TA/KIET-TA/output/snake.svg" alt="Snake animation" />
 
 ###
