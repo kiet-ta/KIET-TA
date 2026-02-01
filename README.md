@@ -25,8 +25,8 @@
 - 📫 Reach me at **trananhkiet21082005@gmail.com**
 - ⚡ Fun fact: **I turn ☕ into code!**
 - 🌐 
-  **<a href="https://your-website.com" target="_blank">
-    My Website
+  **<a href="https://kietta.me" target="_blank">
+    My Portfolio
   </a>**
 <br clear="both"/>
 
